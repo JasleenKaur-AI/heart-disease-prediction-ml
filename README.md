@@ -40,7 +40,7 @@ Early prediction of heart disease can help healthcare institutions reduce risk, 
 - Decision Tree Classifier
 - Logistic Regression
 - Random Forest Classifier
-
+- Linear Regression
 ---
 
 ## Results
