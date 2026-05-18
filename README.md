@@ -44,7 +44,7 @@ Early prediction of heart disease can help healthcare institutions reduce risk, 
 ---
 
 ## Results
-- Achieved approximately 85% prediction accuracy
+- Achieved approximately 76% prediction accuracy
 - Random Forest achieved highest performance
 - Improved model performance using hyperparameter tuning
 
