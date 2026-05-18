@@ -9,8 +9,8 @@ The project focuses on data preprocessing, Exploratory Data Analysis (EDA), feat
 
 ---
 
-## Business Objective
-The objective of this project is to identify patients at higher risk of heart disease using Machine Learning and healthcare data analysis techniques.
+## Business Problems
+Early prediction of heart disease can help healthcare institutions reduce risk, improve patient outcomes, and support preventive healthcare strategies through data-driven insights.
 
 ---
 
