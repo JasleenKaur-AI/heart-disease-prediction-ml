@@ -58,4 +58,4 @@ Early prediction of heart disease can help healthcare institutions reduce risk, 
 ---
 
 ## Author
-Angel
+Jasleen Kaur
